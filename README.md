@@ -1,7 +1,5 @@
 ### Celio Junior
-<h4>Atualmente, estou estudando através do SENAC - Qualificação Profissional Técnica de Assistente de Desenvolvimento de Aplicativos Computacionais. Onde aprendemos diversas linguagem e criamos um projeto integrador (Academia Personal) de mobile através do Vue.js com Quasar Framework rodando nosso aplicativo. Tambem implementamos Node.js, express, sequelize e sqlite em nosso projeto para que possamos testar nossa API junto ao banco de dados.</h4>
-<h4>Tambem estudos back-end, desde levantamento de requisitos, MER, modelo fisíco e logico, criação de banco SQL, desenvolvimento de aplicativos simples em C# com a interação do banco de dados.</h4>
-<h4>Pude desenvolver habilidades básicas em photoshop, adobe xd para construção de telas e imagens</h4>
+<h4>Atualmente finalizado o curso SENAC - Qualificação Profissional Técnica de Assistente de Desenvolvimento de Aplicativos Computacionais. Neste momento iniciando o curso de desenvolivmento full stack pelo SENAC.
   
   <br>
 
@@ -16,12 +14,13 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="VUE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+<!--   <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"> -->
   <img align="center" alt="NODEJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <!--<img align="center" alt="REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">-->
   <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg">
+  <img align="center" alt="xD" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg">
+  <img align="center" alt="Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   
 </div>
  
