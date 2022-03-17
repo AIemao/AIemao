@@ -22,8 +22,8 @@
 
 <div align="center">
   <a href="https://github.com/AIemao">
-  <img display:"flex" height="170em" src="https://github-readme-stats.vercel.app/api?username=AIemao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img display:"flex" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIemao&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img display:"flex" height="140em" src="https://github-readme-stats.vercel.app/api?username=AIemao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img display:"flex" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIemao&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
   
 ## Skils:
