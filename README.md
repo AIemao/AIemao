@@ -74,11 +74,14 @@
 </div>
 
 <br>
- <p align="center"> 
-  Visitor count
- <br>
-  <img src="https://profile-counter.glitch.me/AIemao/count.svg" />
-</p>
+  
+<div align="center">
+   
+  ![Visitor Count](https://profile-counter.glitch.me/{AIemao}/count.svg)
+   
+ </div>
+  
+  
 
   
 
