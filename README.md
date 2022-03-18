@@ -49,8 +49,8 @@
  <a href="https://github.com/AIemao/SUPERGIG">
   <img align="center" height="105em" src="https://github-readme-stats.vercel.app/api/pin/?username=AIemao&repo=SUPERGIG&theme=radical" />
  </a>
- <a href="https://github.com/AIemao/Imersao-DEVDOBRO">
-  <img align="center" height="105em" height="250" src="https://github-readme-stats.vercel.app/api/pin/?username=AIemao&repo=Imersao-DEVDOBRO&theme=radical" />
+ <a href="https://github.com/AIemao/pokedex">
+  <img align="center" height="105em" height="250" src="https://github-readme-stats.vercel.app/api/pin/?username=AIemao&repo=pokedex&theme=radical" />
  </a>
  <a href="https://github.com/AIemao/velha">
   <img align="center" height="105em" height="250" src="https://github-readme-stats.vercel.app/api/pin/?username=AIemao&repo=velha&theme=radical" />
