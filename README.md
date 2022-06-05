@@ -1,16 +1,23 @@
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Olá Mundo! Sou Celio Junior&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+<div align="center">
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"  height="50px" > 
+Olá Mundo! Sou Celio Junior&nbsp;
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" height="30px" > 
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" height="30px" >
+</div>
+
+<br>
 
 <div align="right"> 
   <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/84292058/158839920-c2d705c7-5273-496a-b8fd-e2469c4ef704.gif" width="500" height="320" />
 </div>
 
-#### Atualmente finalizado o curso SENAC - Qualificação Profissional Técnica de Assistente de Desenvolvimento de Aplicativos Computacionais. Neste momento iniciando o curso de desenvolvimento full stack pelo SENAC.
+#### Atualmente finalizado o curso SENAC - Qualificação Profissional Técnica de Assistente de Desenvolvimento de Aplicativos Computacionais. Neste momento cursando desenvolvimento FULL STACK pelo SENAC.
 
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> Provavelmente me encontrará trabalhando ou codando💻
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20vw" /> Horas vagas estudando ou curtindo a família.
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="20vw" /> Fazendo Imersões e projetos pela World Wide Web.
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> Manda a senha do Wifi aí!!! 🌐
-- 👽 Sim!! Eles existem, peça ajuda!! <img alt="GIF" src="https://user-images.githubusercontent.com/84292058/158841422-5f42f213-1e41-404f-9e15-ad8b0a4deeda.gif" width="30vw" />
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" height="30px" /> Provavelmente me encontrará trabalhando ou codando💻
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" height="30px" /> Horas vagas estudando ou curtindo a família.
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" height="30px" /> Fazendo Imersões e projetos pela World Wide Web.
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" height="30px" /> Manda a senha do Wifi aí!!! 🌐
+- 👽 Sim!! Eles existem, peça ajuda!! <img alt="GIF" src="https://user-images.githubusercontent.com/84292058/158841422-5f42f213-1e41-404f-9e15-ad8b0a4deeda.gif" height="30px" />
 
 
 <br>
@@ -27,20 +34,21 @@
 </div>
   
 ## Skils:
-<div style="display: inline_block" align="center"><br> 
-  <img align="center" alt="GIF" src="https://user-images.githubusercontent.com/84292058/158842101-75c01d84-a866-4fc8-ac7b-8f9adf582444.gif" width="100px" />
-  <img align="center" alt="Vs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="VUE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+<div style="display: inline_block" align="center" ><br> 
+  <img align="center" alt="GIF" src="https://user-images.githubusercontent.com/84292058/158842101-75c01d84-a866-4fc8-ac7b-8f9adf582444.gif" height="40px" />
+  <img align="center" alt="Vs" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+  <img align="center" alt="Js" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="REACT" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" >        
+  <img align="center" alt="VUE" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
 <!--   <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"> -->
-  <img align="center" alt="NODEJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="NODEJS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <!--<img align="center" alt="REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">-->
-  <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="xD" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg">
-  <img align="center" alt="Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"> 
+  <img align="center" alt="C#" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="xD" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg">
+  <img align="center" alt="Photoshop" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"> 
 </div>
  
  ### Some projects: 
@@ -60,10 +68,10 @@
 ![Snake animation](https://github.com/AIemao/AIemao/blob/output/github-contribution-grid-snake.svg)
   
 <div align="center">  
- <img align="left" alt="GIF" src="https://user-images.githubusercontent.com/84292058/158843930-78cd57a2-932c-48ab-9962-5fea046c4fff.gif" width="35px">
- <img align="left" alt="GIF" src="https://user-images.githubusercontent.com/84292058/158843930-78cd57a2-932c-48ab-9962-5fea046c4fff.gif" width="35px">
- <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/84292058/158843930-78cd57a2-932c-48ab-9962-5fea046c4fff.gif" width="35px">
- <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/84292058/158843930-78cd57a2-932c-48ab-9962-5fea046c4fff.gif" width="35px">
+ <img align="left" alt="GIF" src="https://user-images.githubusercontent.com/84292058/158843930-78cd57a2-932c-48ab-9962-5fea046c4fff.gif" height="40" >
+ <img align="left" alt="GIF" src="https://user-images.githubusercontent.com/84292058/158843930-78cd57a2-932c-48ab-9962-5fea046c4fff.gif" height="40" >
+ <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/84292058/158843930-78cd57a2-932c-48ab-9962-5fea046c4fff.gif" height="40">
+ <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/84292058/158843930-78cd57a2-932c-48ab-9962-5fea046c4fff.gif" height="40" ">
  <h4>Se chegou até aqui, muito Obrigado!!</h4>
  </div>
   
