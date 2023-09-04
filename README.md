@@ -41,14 +41,7 @@ Olá Mundo! Sou Celio Junior&nbsp;
   <img align="center" alt="HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="REACT" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" >        
-  <img align="center" alt="VUE" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-<!--   <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"> -->
   <img align="center" alt="NODEJS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <!--<img align="center" alt="REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">-->
-  <img align="center" alt="C#" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="xD" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg">
-  <img align="center" alt="Photoshop" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"> 
 </div>
  
  ### Some projects: 
@@ -65,13 +58,7 @@ Olá Mundo! Sou Celio Junior&nbsp;
  </a>
 </div> 
   
-![Snake animation](https://github.com/AIemao/AIemao/blob/output/github-contribution-grid-snake.svg)
-  
 <div align="center">  
- <img align="left" alt="GIF" src="https://user-images.githubusercontent.com/84292058/158843930-78cd57a2-932c-48ab-9962-5fea046c4fff.gif" height="40" >
- <img align="left" alt="GIF" src="https://user-images.githubusercontent.com/84292058/158843930-78cd57a2-932c-48ab-9962-5fea046c4fff.gif" height="40" >
- <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/84292058/158843930-78cd57a2-932c-48ab-9962-5fea046c4fff.gif" height="40">
- <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/84292058/158843930-78cd57a2-932c-48ab-9962-5fea046c4fff.gif" height="40" ">
  <h4>Se chegou até aqui, muito Obrigado!!</h4>
  </div>
   
