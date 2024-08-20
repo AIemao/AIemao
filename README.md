@@ -1,24 +1,47 @@
-<div align="center">
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"  height="50px" > 
-Olá Mundo! Sou Celio Junior&nbsp;
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" height="30px" > 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" height="30px" >
-</div>
+![Banner](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQxODIxMzYsIm5iZiI6MTcyNDE4MTgzNiwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODIwVDE5MjM1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMxZTYxOTZhZmRiODdkNmExZjZlMzJhOTcyOTAxZjM4YmYwNjgyZGQ4N2JjNDk1NDRjZGUxOTJkOWMwODFkZjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.mIr5tcikwFytLJJvvRIw6Mk7CU_i5gugoLKpQMyWCYo)
+
+
+# 🚀 Olá, Mundo! Sou Celio Junior 👋
 
 <br>
 
-<div align="right"> 
-  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/84292058/158839920-c2d705c7-5273-496a-b8fd-e2469c4ef704.gif" width="500" height="320" />
-</div>
+## 🌟 Sobre Mim
 
-#### Atualmente finalizado o curso SENAC - Qualificação Profissional Técnica de Assistente de Desenvolvimento de Aplicativos Computacionais. Neste momento cursando desenvolvimento FULL STACK pelo SENAC.
+Após concluir o curso de Desenvolvimento de Aplicativos pelo SENAC, mergulhei de cabeça no mundo da tecnologia com cursos na Alura, RocketSeat e Udemy. Minha jornada começou no setor de Suporte, onde tive a chance de fazer a transição para Pesquisa e Desenvolvimento (P&D), focando inicialmente no desenvolvimento MOBILE.
 
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" height="30px" /> Provavelmente me encontrará trabalhando ou codando💻
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" height="30px" /> Horas vagas estudando ou curtindo a família.
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" height="30px" /> Fazendo Imersões e projetos pela World Wide Web.
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" height="30px" /> Manda a senha do Wifi aí!!! 🌐
-- 👽 Sim!! Eles existem, peça ajuda!! <img alt="GIF" src="https://user-images.githubusercontent.com/84292058/158841422-5f42f213-1e41-404f-9e15-ad8b0a4deeda.gif" height="30px" />
+Durante 6 meses, trabalhei como desenvolvedor JAVA, adquirindo valiosa experiência colaborando com uma equipe de especialistas. Participei da migração de rotas de WS para APIs, corrigi bugs e desenvolvi novas funcionalidades para o aplicativo móvel da empresa.
 
+## 💡 Atualmente
+
+Atualmente, estou imerso no mundo do Auto Atendimento como desenvolvedor FULL STACK. No front-end, trabalho com React, e no back-end, uso TypeScript. Adoro explorar novas tecnologias e aprimorar minhas habilidades.
+
+## 🚀 O Que Estou Fazendo Agora
+
+- 🖥️ Desenvolvendo soluções inovadoras em Auto Atendimento.
+- 🔧 Atuando como desenvolvedor FULL STACK (React & TypeScript).
+- 🌐 Explorando novas tecnologias e aprimorando continuamente minhas habilidades.
+
+## 🤝 Vamos Conversar!
+
+Se você precisa de ajuda ou quer trocar ideias sobre tecnologia, estou por aqui! 🌐
+
+<br/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/235223585-049a7ac0-b529-416d-b504-ed24aea7d99b.gif" alt="Sim!! Eles existem, peça ajuda!!" width="30"/>
+  <br>
+  👽Sim!! Eles existem, peça ajuda!!👽
+</p>
+
+<br/>
+
+## 💻 Skills & Tecnologias
+
+Aqui estão algumas das minhas habilidades e ferramentas favoritas:
+
+- 💻 **JavaScript & TypeScript** - O coração do desenvolvimento web moderno.
+- ⚛️ **React** - Construindo interfaces de usuário rápidas e dinâmicas.
+- 🔧 **Node.js** - Poderoso no back-end.
+- 🌐 **APIs** - Conectando sistemas e serviços.
 
 <br>
 <br>
@@ -29,34 +52,35 @@ Olá Mundo! Sou Celio Junior&nbsp;
 
 <div align="center">
   <a href="https://github.com/AIemao">
-  <img display:"flex" height="140em" src="https://github-readme-stats.vercel.app/api?username=AIemao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img display:"flex" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIemao&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img display:"flex" height="140em" src="https://github-readme-stats.vercel.app/api?username=AIemao&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=omni"/>
+  <img display:"flex" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIemao&layout=compact&langs_count=6&theme=omni"/>
 </div>
   
-## Skils:
+## Skils: 
 <div style="display: inline_block" align="center" ><br> 
-  <img align="center" alt="GIF" src="https://user-images.githubusercontent.com/84292058/158842101-75c01d84-a866-4fc8-ac7b-8f9adf582444.gif" height="40px" />
-  <img align="center" alt="Vs" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
-  <img align="center" alt="Js" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="REACT" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" >        
-  <img align="center" alt="NODEJS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Delorean" src="https://user-images.githubusercontent.com/84292058/158842101-75c01d84-a866-4fc8-ac7b-8f9adf582444.gif" height="40px" />
+  <img align="center" alt="React" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" height="30px" />
+  <img align="center" alt="Node" src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" height="30px" />
+  <img align="center" alt="Js" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" height="30" />
+<!--   <img align="center" alt="Mongo" src="" height="30" /> -->
+  <img align="center" alt="Android" src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" height="30" />
+  <img align="center" alt="Git" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" height="30" />        
+  <img align="center" alt="Vs" height="30" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" height="30" />
 </div>
  
- ### Some projects: 
+### Some projects: 
  #  
 <div align="center">
- <a href="https://github.com/AIemao/SUPERGIG">
-  <img align="center" height="105em" src="https://github-readme-stats.vercel.app/api/pin/?username=AIemao&repo=SUPERGIG&theme=radical" />
+ <a href="https://github.com/AIemao/coffeDelivery">
+  <img align="center" height="105em" src="https://github-readme-stats.vercel.app/api/pin/?username=AIemao&repo=coffeDelivery&theme=radical" />
  </a>
- <a href="https://github.com/AIemao/pokedex">
-  <img align="center" height="105em" height="250" src="https://github-readme-stats.vercel.app/api/pin/?username=AIemao&repo=pokedex&theme=radical" />
+ <a href="https://github.com/AIemao/fakeStoreApiReact">
+  <img align="center" height="105em" src="https://github-readme-stats.vercel.app/api/pin/?username=AIemao&repo=fakeStoreApiReact&theme=radical" />
  </a>
- <a href="https://github.com/AIemao/velha">
-  <img align="center" height="105em" height="250" src="https://github-readme-stats.vercel.app/api/pin/?username=AIemao&repo=velha&theme=radical" />
+ <a href="https://github.com/AIemao/fakeStoreApiVue">
+  <img align="center" height="105em" src="https://github-readme-stats.vercel.app/api/pin/?username=AIemao&repo=fakeStoreApiVue&theme=radical" />
  </a>
-</div> 
+</div>
   
 <div align="center">  
  <h4>Se chegou até aqui, muito Obrigado!!</h4>
