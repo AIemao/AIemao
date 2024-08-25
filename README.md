@@ -7,19 +7,19 @@
 
 ## 🌟 Sobre Mim
 
-Após concluir o curso de Desenvolvimento de Aplicativos pelo SENAC, mergulhei de cabeça no mundo da tecnologia com cursos na Alura, RocketSeat e Udemy. Minha jornada começou no setor de Suporte, onde tive a chance de fazer a transição para Pesquisa e Desenvolvimento (P&D), focando inicialmente no desenvolvimento MOBILE.
+Após me formar em Desenvolvimento de Aplicativos pelo SENAC, continuei estudando com cursos na Alura, RocketSeat e Udemy para aprofundar meu conhecimento em tecnologia. Comecei minha carreira no Suporte e, depois de muito aprendizado, consegui migrar para a área de Pesquisa e Desenvolvimento, com foco em desenvolvimento mobile.
 
-Durante 6 meses, trabalhei como desenvolvedor JAVA, adquirindo valiosa experiência colaborando com uma equipe de especialistas. Participei da migração de rotas de WS para APIs, corrigi bugs e desenvolvi novas funcionalidades para o aplicativo móvel da empresa.
+Tive a oportunidade de trabalhar por 6 meses como desenvolvedor Java, onde aprendi muito ao lado de uma equipe experiente. Nesse período, participei da migração de rotas de WS para APIs, além de corrigir bugs e implementar novas funcionalidades no aplicativo mobile da empresa.
 
 ## 💡 Atualmente
 
-Atualmente, estou imerso no mundo do Auto Atendimento como desenvolvedor FULL STACK. No front-end, trabalho com React, e no back-end, uso TypeScript. Adoro explorar novas tecnologias e aprimorar minhas habilidades.
+Atualmente, estou trabalhando como desenvolvedor Full Stack, criando soluções para Auto Atendimento. No dia a dia, lido com React no front-end e TypeScript no back-end. Curto bastante explorar novas tecnologias e sempre busco melhorar minhas habilidades.
 
 ## 🚀 O Que Estou Fazendo Agora
 
-- 🖥️ Desenvolvendo soluções inovadoras em Auto Atendimento.
-- 🔧 Atuando como desenvolvedor FULL STACK (React & TypeScript).
-- 🌐 Explorando novas tecnologias e aprimorando continuamente minhas habilidades.
+- 🖥️ Desenvolvendo soluções para Auto Atendimento.
+- 🔧 Atuo como Full Stack com React e TypeScript.
+- 🌐 Sempre explorando novas tecnologias e aprendendo mais.
 
 ## 🤝 Vamos Conversar!
 
@@ -38,10 +38,12 @@ Se você precisa de ajuda ou quer trocar ideias sobre tecnologia, estou por aqui
 
 Aqui estão algumas das minhas habilidades e ferramentas favoritas:
 
-- 💻 **JavaScript & TypeScript** - O coração do desenvolvimento web moderno.
-- ⚛️ **React** - Construindo interfaces de usuário rápidas e dinâmicas.
-- 🔧 **Node.js** - Poderoso no back-end.
-- 🌐 **APIs** - Conectando sistemas e serviços.
+- 💻 **JavaScript & TypeScript** - Para desenvolvimento web.
+- ⚛️ **React** -  Para interfaces dinâmicas.
+- 🛠️ **Electron** -  Para apps desktop.
+- 📱 **Android Studio** - Para manutenção de apps Android em Java.
+- 🔧 **Node.js** - Para backend.
+- 🌐 **APIs** - Para integração de sistemas.
 
 <br>
 <br>
