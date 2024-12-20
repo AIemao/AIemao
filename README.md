@@ -36,17 +36,16 @@ Se você precisa de ajuda ou quer trocar ideias sobre tecnologia, estou por aqui
 Aqui estão algumas das minhas habilidades e ferramentas favoritas:
 
 Desenvolvimento Web:
-
-💻 JavaScript & TypeScript: Domínio no desenvolvimento web moderno.
-⚛️ React: Criação de interfaces dinâmicas e responsivas.
-🛠️ Electron: Desenvolvimento de aplicativos desktop.
+- 💻 JavaScript & TypeScript: Domínio no desenvolvimento web moderno.
+- ⚛️ React: Criação de interfaces dinâmicas e responsivas.
+- 🛠️ Electron: Desenvolvimento de aplicativos desktop.
+- 
 Desenvolvimento Mobile:
+- 📱 Android Studio: Experiência em manutenção de apps Android em Java.
 
-📱 Android Studio: Experiência em manutenção de apps Android em Java.
 Backend e Integrações:
-
-🔧 Node.js: Construção de APIs robustas.
-🌐 APIs: Integração e otimização de sistemas corporativos.
+- 🔧 Node.js: Construção de APIs robustas.
+- 🌐 APIs: Integração e otimização de sistemas corporativos.
 
 <br>
 <br>
