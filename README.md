@@ -6,7 +6,7 @@
 
 Após me formar em Desenvolvimento de Aplicativos pelo SENAC, continuei estudando com cursos na Alura, RocketSeat e Udemy para aprofundar meu conhecimento em tecnologia. Comecei minha carreira no Suporte e, depois de muito aprendizado, consegui migrar para a área de Pesquisa e Desenvolvimento, com foco em desenvolvimento mobile.
 
-Tive a oportunidade de trabalhar por 6 meses como desenvolvedor Java, onde aprendi muito ao lado de uma equipe experiente. Nesse período, participei da migração de rotas de WS para APIs, além de corrigir bugs e implementar novas funcionalidades no aplicativo mobile da empresa.
+Durante seis meses como desenvolvedor Java, atuei na migração de rotas de Web Services (WS) para APIs modernas utilizando Retrofit com suporte ao RxJava, otimizando o desempenho e a manutenção do código. Além disso, colaborei na identificação e correção de bugs críticos que impactavam a experiência do usuário e implementei novas funcionalidades em um aplicativo mobile corporativo, atendendo às necessidades do negócio e garantindo maior eficiência na interação dos usuários com o sistema.
 
 ## 💡 Atualmente
 
