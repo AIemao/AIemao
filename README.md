@@ -39,7 +39,7 @@ Desenvolvimento Web:
 - 💻 JavaScript & TypeScript: Domínio no desenvolvimento web moderno.
 - ⚛️ React: Criação de interfaces dinâmicas e responsivas.
 - 🛠️ Electron: Desenvolvimento de aplicativos desktop.
-- 
+  
 Desenvolvimento Mobile:
 - 📱 Android Studio: Experiência em manutenção de apps Android em Java.
 
