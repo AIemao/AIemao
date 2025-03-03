@@ -15,7 +15,7 @@ Atualmente, atuo como desenvolvedor Full Stack, focado em criar soluções intel
 ## 🚀 O Que Estou Fazendo Agora
 
 - 🖥️ Desenvolvendo soluções para Auto Atendimento e ajudando empresas a inovar no relacionamento com seus clientes.
-- 🔧 tuando como Full Stack com foco em qualidade e performance com React e TypeScript.
+- 🔧 Atuando como Full Stack com foco em qualidade e performance com React e TypeScript.
 - 🌐 Sempre explorando novas tecnologias, aprendendo mais e buscando impactar positivamente os projetos em que me envolvo.
 
 ## 🤝 Vamos Conversar!
